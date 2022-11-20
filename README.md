@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0-iQpy
-- 👀 I’m interested in python programming 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in python programming and JavaScript 
+- 🌱 I’m currently learning python and JavaScript 
 - 💞️ I’m looking to collaborate on ... idunno
 - 📫 How to reach me e-mail @ 
 
