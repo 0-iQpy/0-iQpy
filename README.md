@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0-iQpy
+- 👋 Hi, I’m @0-iQpy, 16yrs old and still studying im currently senior high student ICT track CSS specialized 
 - 👀 I’m interested in python programming and JavaScript 
 - 🌱 I’m currently learning python and JavaScript 
 - 💞️ I’m looking to collaborate on ... idunno
