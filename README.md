@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @0-iQpy, 16yrs old and still studying im currently senior high student ICT track CSS specialized 
-- 👀 I’m interested in python programming and JavaScript 
-- 🌱 I’m currently learning python and JavaScript 
-- 💞️ I’m looking to collaborate on ... idunno
-- 📫 How to reach me e-mail @ 
+- 👋 Hi, I’m @0-iQpy, 18yrs old and still stu(dying)
+- 👀 I’m interested in complex codes
+- 🌱 I’m currently taking BS Computer Science 
+- 💞️ I’m looking to collaborate so that i can learn
+- 📫 How to reach me e-mail @ cristiandave123456@gmail.com
 
 <!---
 0-iQpy/0-iQpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
