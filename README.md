@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0-iQpy, 18yrs old and still stu(dying)
+- 👋 Hi, I’m @0-iQpy, 19yrs old and still stu(dying)
 - 👀 I’m interested in complex codes
 - 🌱 I’m currently taking BS Computer Science 
 - 💞️ I’m looking to collaborate so that i can learn
