@@ -18,14 +18,17 @@ I'm a 20-year-old BS Computer Science student, software engineer, and hardware e
 I enjoy collaborating on distributed systems and exploring the boundary between software engineering, automation, and physical systems.
 
 #### 🚀 Featured Projects
+*   **AI-Powered Mobile Fitness & Nutrition Platform (Mobile/AI):** Lead Backend & AI Developer for a cross-platform mobile health application built with **React Native (Expo)**, **TypeScript**, and **Supabase (PostgreSQL)**. Implemented optimistic UI caching via **TanStack React Query** and managed state with **Zustand**. Integrated an advanced LLM pipeline (via Hugging Face API) featuring automated key rotation, prompt injection guardrails, client-side rate limiting, and an isolated dual-tiered PostgreSQL database structure (Verified local bundle + remote USDA raw catalog) to prevent data hallucinations. Securely managed user identity validation with device UUIDs and Supabase Row Level Security (RLS).
 *   **GuardAgent Sandbox (AI Security):** Developed a secure multi-agent pipeline simulation using **FastAPI** (Python), **Gemini 2.5 Flash**, and Hugging Face's **Deberta v3** prompt injection classifier. The system shields LLMs from prompt injections and handles PII redaction/de-redaction dynamically via token mapping.
+*   **[Kayle Snatch](https://lyevan.itch.io/kalye-snatch) (Game Development):** Contributed to an interactive Godot game project in **GDScript**, implementing custom shaders (full-screen police strobe wanted level alert), designing wobbly animated QTE HUD systems, and styling the user interface with textured themes and layout optimizations.
 *   **Vortex-U (Hardware/IoT):** Built a high-velocity ESP32-U Wi-Fi research tool in **C++** using a dual-core architecture to achieve hardware-verified 9,238 PPS injection through clock domain switching and netstack bypass.
 
 #### 🛠️ What I Do
-*   **AI Pipelines & Assistants:** Developing secure LLM architectures, prompt filters, and personal distributed assistants.
+*   **AI Pipelines & Assistants:** Developing secure LLM architectures, prompt filters, conversational coaching cards, and autonomous project management agents (using FastAPI and Qwen) integrated with Telegram and n8n webhooks.
+*   **Mobile App Development:** Building cross-platform mobile solutions using React Native, Expo Router, NativeWind (Tailwind CSS), offline sandboxing with Zustand, and React Query v5 optimistic caching.
 *   **Simulations & Modeling:** Designing physics-based "Digital Twins" (using Unity PhysX) and machine learning models (Random Forest) for deterministic analysis of stochastic systems.
 *   **Full-Stack & Dashboards:** Building responsive dashboards, learning platforms (such as Japanese study applications), and secure authentication pipelines.
-*   **Workflow Automation:** Scripting custom local automation tools and web scraping systems.
+*   **Workflow Automation:** Scripting custom local automation tools, web scraping systems, and downstream Trello/n8n integration endpoints.
 
 ---
 
