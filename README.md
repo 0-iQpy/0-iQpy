@@ -216,19 +216,30 @@ I enjoy collaborating on distributed systems and exploring the boundary between 
 
 ### 🤝 Connect & Support
 
-<p align="center">
-  <a href="https://instagram.com/0xcd0_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:cristiandave123456@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://paypal.me/paypal.me/Madnesss101">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-  </a>
-</p>
+<table border="0" align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://instagram.com/0xcd0_">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://discordapp.com/users/748789192779235328">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:cristiandave123456@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://paypal.me/paypal.me/Madnesss101">
+        <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <sub>:></sub>
