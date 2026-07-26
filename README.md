@@ -169,10 +169,16 @@ I enjoy collaborating on distributed systems and exploring the boundary between 
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2" style="padding: 10px;">
+    <td align="center" style="padding: 10px;">
       <a href="https://actions.filpass.ph/?q=%7B%22type%22%3A%22DOCUMENT%22%2C%22payload%22%3A%7B%22uri%22%3A%22https%3A%2F%2Fciap-production-uploadbucket-1.s3.ap-southeast-1.amazonaws.com%2Fproduction%2F6847f1e11f2783cf8d164688%2FopenAttestationSharedCredential%2F1783446086306.opencert%22%2C%22documentId%22%3A%226848fccad17e80ef2630f64e%22%2C%22permittedActions%22%3A%5B%22VIEW%22%2C%22STORE%22%5D%2C%22redirect%22%3A%22https%3A%2F%2Fverified.filpass.ph%2F%22%7D%7D" target="_blank">
-        <img src="./game_jam_certificate.png" width="180" style="border: 1px solid #7aa2f7; border-radius: 4px;" alt="UPLB COSS Game Jam Los Baños 2025" /><br/>
-        <sub><b>UPLB COSS Game Jam Los Baños 2025</b></sub>
+        <img src="./game_jam_certificate.png" width="160" style="border: 1px solid #7aa2f7; border-radius: 4px;" alt="UPLB COSS Game Jam Los Baños 2025" /><br/>
+        <sub><b>UPLB COSS Game Jam 2025</b></sub>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://drive.google.com/file/d/1NElG7Pn_M85xUMy0kOfJg6GAEEXcwwoy/view?usp=sharing" target="_blank">
+        <img src="./dict_figma_certificate.png" width="160" style="border: 1px solid #7aa2f7; border-radius: 4px;" alt="DICT: Figma for Talents & Local Businesses" /><br/>
+        <sub><b>DICT: Figma for Talents (2026)</b></sub>
       </a>
     </td>
   </tr>
