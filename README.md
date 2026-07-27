@@ -182,6 +182,14 @@ I enjoy collaborating on distributed systems and exploring the boundary between 
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2" style="padding: 10px;">
+      <a href="https://lyevan.itch.io/kalye-snatch" target="_blank">
+        <img src="./gamejamlosbanos2026.png" width="180" style="border: 1px solid #7aa2f7; border-radius: 4px;" alt="UPLB COSS Game Jam Los Baños 2026" /><br/>
+        <sub><b>UPLB COSS Game Jam 2026</b></sub>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
