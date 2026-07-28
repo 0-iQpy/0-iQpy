@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1b26,7aa2f7,bb9af5&height=200&section=header&text=0-iQpy%20👋&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/branding/versions/v2/0-iqpy-logo.png" />
+    <img src="./assets/branding/versions/v2/0-iqpy-logo.gif" width="100%" alt="Animated 0-iQpy Pixel Compiler v2 wordmark: mixed pixels form the 0, whose magnetic field rebuilds the remaining characters." />
+  </picture>
 </p>
 
 <p align="center">
@@ -13,22 +16,23 @@
 ---
 
 ### 💫 About Me
-I'm a 20-year-old BS Computer Science student, software engineer, and hardware enthusiast passionate about building secure AI pipelines, embedded networking tools, and interactive simulations. 
+I'm a 20-year-old BS Computer Science student, full-stack software engineer, AI systems developer, and hardware research enthusiast. I specialize in designing production-grade cross-platform applications, secure multi-agent LLM pipelines, embedded Wi-Fi packet engines, and physics-based digital twins.
 
-I enjoy collaborating on distributed systems and exploring the boundary between software engineering, automation, and physical systems.
+I enjoy building complex software architectures—from low-level C++ clock domain switching and PostgreSQL stored procedure engines to modern React Native (Expo) frontends and automated workflow integrations.
 
 #### 🚀 Featured Projects
-*   **AI-Powered Mobile Fitness & Nutrition Platform (Mobile/AI):** Lead Backend & AI Developer for a cross-platform mobile health application built with **React Native (Expo)**, **TypeScript**, and **Supabase (PostgreSQL)**. Implemented optimistic UI caching via **TanStack React Query** and managed state with **Zustand**. Integrated an advanced LLM pipeline (via Hugging Face API) featuring automated key rotation, prompt injection guardrails, client-side rate limiting, and an isolated dual-tiered PostgreSQL database structure (Verified local bundle + remote USDA raw catalog) to prevent data hallucinations. Securely managed user identity validation with device UUIDs and Supabase Row Level Security (RLS).
+*   **AI-Powered Mobile Fitness & Nutrition Platform (Mobile/AI):** Lead Backend & AI Developer for a cross-platform mobile health application built with **React Native (Expo)**, **TypeScript**, and **Supabase (PostgreSQL)**. Implemented optimistic UI caching via **TanStack React Query v5** and managed offline application state with **Zustand**. Integrated an advanced LLM pipeline (via Hugging Face API) featuring automated key rotation, prompt injection guardrails, client-side rate limiting, and an isolated dual-tiered PostgreSQL database structure (Verified local bundle + remote USDA raw catalog) to prevent data hallucinations. Securely managed user identity validation with device UUIDs and Supabase Row Level Security (RLS).
 *   **GuardAgent Sandbox (AI Security):** Developed a secure multi-agent pipeline simulation using **FastAPI** (Python), **Gemini 2.5 Flash**, and Hugging Face's **Deberta v3** prompt injection classifier. The system shields LLMs from prompt injections and handles PII redaction/de-redaction dynamically via token mapping.
+*   **Digital Twin & Stochastic Simulation (Simulation/ML):** Built a physics-based "Digital Twin" in **Unity (PhysX)** paired with **Random Forest** machine learning models to analyze and predict physical bias and statistical outcomes in stochastic gaming systems.
 *   **[Kayle Snatch](https://lyevan.itch.io/kalye-snatch) (Game Development):** Contributed to an interactive Godot game project in **GDScript**, implementing custom shaders (full-screen police strobe wanted level alert), designing wobbly animated QTE HUD systems, and styling the user interface with textured themes and layout optimizations.
 *   **Vortex-U (Hardware/IoT):** Built a high-velocity ESP32-U Wi-Fi research tool in **C++** using a dual-core architecture to achieve hardware-verified 9,238 PPS injection through clock domain switching and netstack bypass.
 
 #### 🛠️ What I Do
-*   **AI Pipelines & Assistants:** Developing secure LLM architectures, prompt filters, conversational coaching cards, and autonomous project management agents (using FastAPI and Qwen) integrated with Telegram and n8n webhooks.
-*   **Mobile App Development:** Building cross-platform mobile solutions using React Native, Expo Router, NativeWind (Tailwind CSS), offline sandboxing with Zustand, and React Query v5 optimistic caching.
-*   **Simulations & Modeling:** Designing physics-based "Digital Twins" (using Unity PhysX) and machine learning models (Random Forest) for deterministic analysis of stochastic systems.
-*   **Full-Stack & Dashboards:** Building responsive dashboards, learning platforms (such as Japanese study applications), and secure authentication pipelines.
-*   **Workflow Automation:** Scripting custom local automation tools, web scraping systems, and downstream Trello/n8n integration endpoints.
+*   **AI Pipelines & Autonomous Agents:** Architecting secure LLM pipelines, prompt filters, conversational coaching cards, and autonomous project management agents (using FastAPI and Qwen) integrated with Telegram and n8n webhooks.
+*   **Mobile & Cross-Platform Development:** Building high-performance mobile apps with React Native, Expo Router, NativeWind (Tailwind CSS), Zustand offline state management, and TanStack React Query v5 caching.
+*   **Embedded Systems & Networking:** Engineering C++ dual-core engines on ESP32 microcontrollers for high-rate packet injection, clock domain manipulation, and network stack bypass.
+*   **Physics Simulations & Machine Learning:** Designing Unity PhysX digital twins and training Random Forest ML models for statistical analysis of physical systems.
+*   **Full-Stack Web & Database Systems:** Crafting responsive dashboards, full-stack web applications, PLpgSQL stored procedures, and custom ETL pipelines.
 
 ---
 
