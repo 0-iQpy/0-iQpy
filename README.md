@@ -226,7 +226,7 @@ I enjoy building complex software architectures—from low-level C++ clock domai
       <img src="https://github-readme-stats.shion.dev/api?username=0-iQpy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195px" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=0-iQpy&theme=tokyonight&hide_border=true" height="195px" alt="Streak Stats" />
+      <img src="https://streak-stats.demolab.com/?user=0-iQpy&theme=tokyonight&hide_border=true&timezone=Asia/Manila" height="195px" alt="Streak Stats" />
     </td>
   </tr>
   <tr>
