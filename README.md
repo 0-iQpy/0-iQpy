@@ -240,7 +240,7 @@ I enjoy building complex software architectures—from low-level C++ clock domai
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0-iQpy&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=ff007f&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-act-graph.rodriaum.com/graph?username=0-iQpy&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=ff007f&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
