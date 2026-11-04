@@ -220,34 +220,47 @@ I enjoy building complex software architectures—from low-level C++ clock domai
 
 ### 📊 GitHub Stats & Streaks
 
-<table border="0" align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api?username=0-iQpy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195px" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=0-iQpy&theme=tokyonight&hide_border=true&timezone=Asia/Manila" height="195px" alt="Streak Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" style="padding-top: 15px;">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=0-iQpy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="80%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=0-iQpy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=0-iQpy&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.shion.dev/api?username=0-iQpy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=0-iQpy&theme=tokyonight&hide_border=true&timezone=Asia/Manila" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=0-iQpy&theme=default&hide_border=true&timezone=Asia/Manila" />
+    <img src="https://streak-stats.demolab.com/?user=0-iQpy&theme=tokyonight&hide_border=true&timezone=Asia/Manila" height="195" alt="Streak Stats" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=0-iQpy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=0-iQpy&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=0-iQpy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  </picture>
+</p>
 
 ---
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-act-graph.rodriaum.com/graph?username=0-iQpy&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=ff007f&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-act-graph.rodriaum.com/graph?username=0-iQpy&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=ff007f&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-act-graph.rodriaum.com/graph?username=0-iQpy&theme=github-light&area=true&hide_border=true" />
+    <img src="https://github-act-graph.rodriaum.com/graph?username=0-iQpy&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=ff007f&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  </picture>
 </p>
 
 ---
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  </picture>
 </p>
 
 ---
@@ -272,7 +285,7 @@ I enjoy building complex software architectures—from low-level C++ clock domai
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://paypal.me/paypal.me/Madnesss101">
+      <a href="https://paypal.me/Madnesss101">
         <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
       </a>
     </td>
