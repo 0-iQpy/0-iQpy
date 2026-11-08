@@ -218,6 +218,12 @@ I enjoy building complex software architectures—from low-level C++ clock domai
 
 ---
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="0-iQpy's Git Koi" />
+</p>
+
+<br/>
+
 ### 📊 GitHub Stats & Streaks
 
 <p align="center">
